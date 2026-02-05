@@ -1,0 +1,2 @@
+# Prompt-Difficulty-Regression-CNNs-GRUs-Ensembles-MoE-UDHGAM-Challenge-
+This repository contains a full end-to-end solution for the UDHGAM ML Challenge, where the task is to predict a continuous difficulty score from tokenized prompts.  The project explores a wide range of architectures — CNNs, GRUs, attention pooling, dilated convolutions  and systematically investigates ensembling, stacking, Mixture-of-Experts (MoE).
